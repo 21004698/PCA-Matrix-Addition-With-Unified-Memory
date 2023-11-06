@@ -479,6 +479,9 @@ int main(int argc, char **argv)
 ### With Memset
 ![image](https://github.com/Venkatigi/PCA-Matrix-Addition-With-Unified-Memory/assets/94154252/8b7be2cb-b5dd-4f85-93d2-39d1b619adef)
 
+Developed by : Challa Maheswar
+Reg no:212221040031
+
 ### Without Memset
 ![image](https://github.com/Venkatigi/PCA-Matrix-Addition-With-Unified-Memory/assets/94154252/2363b2f4-90a7-4214-91af-e8cb8031621e)
 
